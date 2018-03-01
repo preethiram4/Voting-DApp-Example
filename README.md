@@ -4,7 +4,7 @@ How to run this application :
   1. First run ganacehe-cli on command prompt
   2. Open new command prompt and do the following:
   3. Run the command  
-         truffle compile
+       <b>  truffle compile  </b>
     
     This will create CastYourVote.json file on your build directory
     
