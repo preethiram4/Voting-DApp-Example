@@ -65,3 +65,9 @@ Provide candidate name and click on vote button
 
 
 Now the votes are updated on the table
+
+Video link is provided below to explain in detail about each and every line in the code:
+
+Part-1 : https://www.youtube.com/watch?v=GXrM1MXiyTY
+Part-2 : https://www.youtube.com/watch?v=KhpvoGFDcbw
+Part-3 : https://www.youtube.com/watch?v=nIdB3k41eOY
