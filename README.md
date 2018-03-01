@@ -2,7 +2,7 @@
 
 How to run this application :
   1. First run ganacehe-cli on command prompt
-     ![Ganache-cli](C:/Users/preethi/Picture/VotingDAPP/1ganachecli.JPG)
+     ![Ganache-cli](C:\Users\preethi\Pictures\VotingDAPP\1ganachecli.JPG)
   2. Open new command prompt and do the following:
   3. Run the command  
       </br>
