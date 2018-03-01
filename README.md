@@ -5,7 +5,7 @@ How to run this application :
   2. Open new command prompt and do the following:
   3. Run the command  
       </br></br>
-      <b> truffle compile <b>
+      <b> truffle compile </b>
     
     This will create CastYourVote.json file on your build directory
     
