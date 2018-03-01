@@ -1,41 +1,36 @@
+
 # Voting DApp Example
 
-<<<<<<< HEAD
 
-=======
 How to run this application :
   1. First run ganacehe-cli on command prompt
-     ![](https://photos.google.com/photo/AF1QipNNKKsn56JJFvxP2l7kp7tB5xaXr_kwLQKzKAA)
-    
+     ![enter image description here](https://lh3.googleusercontent.com/qGUDGpwi-2HnFWnVh-rJEpa1bvmslSkZKv75-MidhP2bYEZsoI5emQv0qqgZWJRxEa1S0b1sCUrz)
   2. Open new command prompt and do the following:
   3. Run the command  
-<<<<<<< HEAD
+
 	truffle compile
-    
-    This will create CastYourVote.json file on your build directory
+    
+This will create CastYourVote.json file on your build directory
     
   4. Once compiled successfully, run the migrate command
-	  truffle migrate
-=======
-   
-      *truffle compile
-      
-    
-    This will create CastYourVote.json file on your build directory
+	  
+		  truffle migrate
+  
+  ![enter image description here](https://lh3.googleusercontent.com/g_YZloD1ZKc_fD6_c50DxHGt55n0-oqPe-QcgZoEgrBbMFq1xHiQfyR4c7e9XtcTfDIWdVEtEd32)
+  This will create CastYourVote.json file on your build directory
     
-   4. Once compiled successfully, run the migrate command
-       </br>**truffle migrate
->>>>>>> 1593a23b932305737987a12ab2e17fc30d0e1645
-      
+
+
+      
    5. Now run the application
-        </br>**npm run dev 
-        
-    </br> This will run the application on <host>:<port>. 
+		 
+			 npm run dev 
+        
+ This will run the application on host:port 
+  In mycase, it is running on localhost:8080
+![enter image description here](https://lh3.googleusercontent.com/0aL8R7d1QrowOrP_jp3tYN2YO3SW08zXAnQQK_yQn8jpGDgHc3PfsQpaKEt_9FxX94Y2RM5HFQuG)
      
-     
-     In mycase, it is running on localhost:8080
-     
->>>>>>> da9898a52562445a6c4075c83af36361d816b812
+
      
   
-  
+  
