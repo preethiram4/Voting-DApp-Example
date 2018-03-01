@@ -3,11 +3,11 @@
 How to run this application :
   1. First run ganacehe-cli on command prompt
      ![test](C:\Users\preethi\Pictures\VotingDAPP\1ganachecli.JPG)
-     ![Image of Yaktocat](C:\Users\preethi\Pictures\VotingDAPP\1ganachecli.png)
+     ![Image of Yaktocat](C:/Users/preethi/Pictures/VotingDAPP/1ganachecli.png)
   2. Open new command prompt and do the following:
   3. Run the command  
-      </br>
-      **truffle compile
+   
+      *truffle compile
       
     
     This will create CastYourVote.json file on your build directory
