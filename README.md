@@ -5,17 +5,17 @@ How to run this application :
   2. Open new command prompt and do the following:
   3. Run the command  
       </br></br>
-      <b> truffle compile </b>
+      <b> truffle compile localhost:8080 </b>
     
     This will create CastYourVote.json file on your build directory
     
    4. Once compiled successfully, run the migrate command
-       <b> truffle migrate ></b></br>
+       </br></br><b> truffle migrate </b></br>
       
    5. Now run the application
-        <b>  npm run dev </b></br>
+        </br></br><b>  npm run dev </b></br>
         
-     This will run the application on <host>:<port>. 
+    </br> This will run the application on <host>:<port>. 
      
      
      In mycase, it is running on localhost:8080
